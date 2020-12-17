@@ -28,7 +28,7 @@ h1{
 	float: left;
     padding: 5px 15px;
     border: 2px solid black;
-    background-color: #d15959;
+    background-color: #fa4747;
 }
 
 #middle {
@@ -37,7 +37,7 @@ h1{
 	padding: 5px 15px;
     margin: 0px 5px 5px 5px;
     border: 2px solid black;
-    background-color: #6ce480;
+    background-color: #41e05c;
 }
 
 #sidebar {
@@ -45,7 +45,7 @@ h1{
 	padding: 5px 15px;
     float: left;
     border: 2px solid black;
-    background-color: #3b57d3;
+    background-color: #2d51f1;
 }
 #content #second{
     border: 2px solid black;
