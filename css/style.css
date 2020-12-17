@@ -145,11 +145,11 @@ h1{
    }
    .md-bg-red{
         background-color: rgb(206, 24, 176);
-        color: white;
+        color: rgb(0, 0, 0);
     }
     .md-bg-green{
         background-color:rgb(218, 197, 15);
-        color:white;
+        color:rgb(8, 7, 7);
     }
     .md-bg-yellow{
         background-color: rgb(18, 30, 199);    
